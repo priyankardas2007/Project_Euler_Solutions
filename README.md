@@ -96,18 +96,7 @@ python solution.py
 
 ---
 
-## 📈 Progress
 
-<p align="center">
-<img src="https://progress-bar.dev/7/?scale=900&title=Problems%20Solved&width=600&color=babaca">
-</p>
-
-| Status | Count |
-|--------|------:|
-| ✅ Solved | 7 |
-| 🎯 Goal | 900+ |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -117,18 +106,7 @@ python solution.py
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🎯 Goals
 
@@ -156,74 +134,3 @@ If you found this repository useful, consider giving it a ⭐ on GitHub!
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
-</p>## 🚀 Running Solutions
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/project-euler-solutions.git
-```
-
-Go to the project
-
-```bash
-cd project-euler-solutions
-```
-
-Run any solution
-
-```bash
-node solution.js
-```
-
----
-
-## 📈 Progress
-
-<p align="center">
-<img src="https://progress-bar.dev/7/?scale=900&title=Problems%20Solved&width=600&color=babaca">
-</p>
-
-| Status | Count |
-|--------|------:|
-| ✅ Solved | 7 |
-| 🎯 Goal | 900+ |
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,vscode,git,github" />
-</p>
-
----
-
-
-
-## 🎯 Goals
-
-- Solve every Project Euler problem
-- Learn advanced mathematics
-- Improve algorithmic thinking
-- Explore different optimization techniques
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-If you have a faster or more elegant solution, feel free to open a Pull Request.
-
----
-
-## ⭐ Support
-
-If you found this repository useful, consider giving it a ⭐ on GitHub!
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
-</p>
