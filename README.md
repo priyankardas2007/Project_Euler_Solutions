@@ -49,17 +49,14 @@ Project-Euler/
 ├── Problem-001/
 │   ├── solution.js
 │   ├── solution.py
-│   └── README.md
 │
 ├── Problem-002/
 │   ├── solution.js
 │   ├── solution.py
-│   └── README.md
 │
 ├── Problem-003/
 │   ├── solution.js
 │   ├── solution.py
-│   └── README.md
 │
 └── README.md
 ```
